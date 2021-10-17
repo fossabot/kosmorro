@@ -18,7 +18,7 @@
 
 import sys
 import locale
-from _kosmorro.main import main
+from kosmorro.main import main
 
 locale.setlocale(locale.LC_ALL, "")
 
